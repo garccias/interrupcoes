@@ -41,7 +41,7 @@ O código está bem estruturado e comentado para facilitar o entendimento. Inclu
 3. Carregue o arquivo `.uf2` gerado na placa RP2040.
 
 ## 🎥 Demonstração em Vídeo
-[Insira o link para o vídeo de demonstração aqui]
+https://drive.google.com/file/d/1ohbIKrLJeG9FtL3ejR9f3e8qjqHa-cko/view?usp=drive_link
 
 
 
